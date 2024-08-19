@@ -6,7 +6,7 @@ Welcome to the Sign-Up Form project repository! This project is part of The Odin
 
 ## Features
 
-Responsive Layout: While this project isn’t optimized for mobile devices, the desktop layout is carefully structured to provide a clean and accessible user experience.
+Responsive Layout: While this project isn’t yet optimized for mobile devices, the desktop layout is carefully structured to provide a clean and accessible user experience.
 
 #### Custom Styling:
 
