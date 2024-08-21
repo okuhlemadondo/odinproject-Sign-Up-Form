@@ -36,13 +36,13 @@ To view the sign-up form locally:
 #### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/signup-form.git
+git clone https://github.com/okuhlemadondo/odinproject-Sign-Up-Form.git
 ```
 
 #### 2. Navigate to the Project Directory:
 
 ```bash
-cd signup-form
+cd odinproject-Sign-Up-Form
 ```
 
 #### 3. Open the HTML File:
